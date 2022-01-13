@@ -48,7 +48,7 @@ Please suggest some next helpful features.
 Please note, it is totally fine if you cannot answer a question. Just leave it out. 
 
 1. Please explain to a non-technical what an REST API is.
-2. Have you heard before of the Quarkus framework? What is your impression?
+2. Have you heard before of the [Quarkus Framework](https://quarkus.io/)?
 3. What test techniques have you already tried? e.g. unit testing
 4. Please give a brief summary about what TDD means to you. 
 
